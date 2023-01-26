@@ -1,4 +1,8 @@
 # Multi-regional maize tassels
+<p align="center">
+  <img src="https://github.com/Ye-Sk/MrMT/blob/master/MrMT.png.png"/>
+</p>
+
 Multi-regional maize tassels MrMT datasets are published from paper :  
 [___TasselLFANet：A Novel Lightweight Multi-Branch Feature Aggregation Neural Network for High-throughput Image-based Maize Tassels Detection and Counting___](https://v.qq.com/x/cover/mpqzavrt4qvdstw/d00148c52qt.html?ptag=360kan.cartoon.free)
 
