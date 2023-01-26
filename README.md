@@ -1,6 +1,6 @@
 # Multi-regional maize tassels
 <p align="center">
-  <img src="https://github.com/Ye-Sk/MrMT/blob/master/MrMT.png.png"/>
+  <img src="https://github.com/Ye-Sk/MrMT/blob/master/MrMT.png"/>
 </p>
 
 Multi-regional maize tassels MrMT datasets are published from paper :  
