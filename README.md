@@ -27,7 +27,7 @@ We constructed the MrMT（Multi-regional Maize Tassels）dataset from the tassel
 |Hebei2012|220|140|60|20|
 |Hebei2014|44| | |44|
 # Downloads
- [___Baidu Yun (9.2GB)___](https://pan.baidu.com/s/130kHzeaPWgU0T12jaumhMg)  code: easy 
+ [___Baidu Drive (9.2GB)___](https://pan.baidu.com/s/130kHzeaPWgU0T12jaumhMg)  code: easy 
 * **The information for each image is stored in the `Annotations.csv` file.**
 * **IMPORTANT NOTICE :**  
     The dataset is restricted to academic purposes only.  
