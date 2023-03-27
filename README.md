@@ -1,4 +1,4 @@
-# Multi-regional maize tassels
+# Multi-regional Maize Tassels
 <p align="center">
   <img src="https://github.com/Ye-Sk/MrMT/blob/master/MrMT.png"/>
 </p>
