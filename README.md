@@ -35,7 +35,7 @@ We constructed the MrMT（Multi-regional Maize Tassels）dataset from the tassel
 # Citation
 ~~~
 @article{ye2023TasselLFANet,  
-  title={TasselLFANet：A Novel Lightweight Multi-Branch Feature Aggregation Neural Network for High-throughput Image-based Maize Tassels Detection and Counting},  
+  title={TasselLFANet: A Novel Lightweight Multi-Branch Feature Aggregation Neural Network for High-throughput Image-based Maize Tassels Detection and Counting},  
   author={Yu, Zhenghong and Ye, Jianxiong and Li, Cuina and Zhou, Huabing and Li, Xun}, 
   journal={Frontiers in Plant Science}, 
   year={2023}
