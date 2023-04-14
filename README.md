@@ -4,7 +4,7 @@
 </p>
 
 Multi-regional maize tassels MrMT datasets are published from paper :  
-[___TasselLFANet：A Novel Lightweight Multi-Branch Feature Aggregation Neural Network for High-throughput Image-based Maize Tassels Detection and Counting___](https://v.qq.com/x/cover/mpqzavrt4qvdstw/d00148c52qt.html?ptag=360kan.cartoon.free)
+[___TasselLFANet：A Novel Lightweight Multi-Branch Feature Aggregation Neural Network for High-throughput Image-based Maize Tassels Detection and Counting___](https://www.frontiersin.org/articles/10.3389/fpls.2023.1158940/abstract)
 
 # Related Work
 To the best of our knowledge, existing datasets maize tassels are too scarce to support further research. Based on the MrMT dataset we trained and evaluated [**TasselLFANet (Lightweight Multi-Branch Feature Aggregation Neural Network)**](https://github.com/Ye-Sk/TasselLFANet), was evaluated with good results. At the same time, we made the datasets and corresponding annotations publicly available in order to provide more convenience for researchers, and allow researchers to conduct more agricultural research, such as crop growth stage detection that requires more detailed data.
@@ -38,6 +38,8 @@ We constructed the MrMT（Multi-regional Maize Tassels）dataset from the tassel
   title={TasselLFANet: A Novel Lightweight Multi-Branch Feature Aggregation Neural Network for High-throughput Image-based Maize Tassels Detection and Counting},  
   author={Yu, Zhenghong and Ye, Jianxiong and Li, Cuina and Zhou, Huabing and Li, Xun}, 
   journal={Frontiers in Plant Science}, 
+  volume={14},
+  pages={1291},
   year={2023}
 }
 ~~~
